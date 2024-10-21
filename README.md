@@ -1,16 +1,12 @@
-# crud
+# CRUD
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **CRUD** (Create, Read, Update, Delete), yaitu operasi dasar yang sering digunakan dalam pengelolaan data. Proyek ini memungkinkan pengguna untuk membuat, membaca, memperbarui, dan menghapus data melalui antarmuka pengguna yang sederhana dan intuitif.
 
-## Getting Started
+## Fitur Utama
+- **Pembuatan Data:** Pengguna dapat menambahkan entri baru dengan mengisi formulir yang disediakan, memungkinkan pengguna untuk menambahkan informasi baru ke dalam aplikasi.
+- **Pembacaan Data:** Aplikasi ini menampilkan daftar data yang telah dimasukkan, memungkinkan pengguna untuk melihat semua entri yang ada dalam database.
+- **Pembaruan Data:** Pengguna dapat memperbarui informasi yang telah ada dengan memilih entri dan mengedit data yang diperlukan.
+- **Penghapusan Data:** Fitur ini memungkinkan pengguna untuk menghapus entri yang tidak lagi diperlukan, menjaga agar daftar data tetap rapi dan teratur.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan operasi **CRUD** dalam aplikasi Flutter. Dengan menggunakan CRUD, pengguna dapat belajar bagaimana mengelola data secara efektif dan memahami dasar-dasar interaksi dengan database. Proyek ini juga memberikan pengalaman praktis dalam merancang antarmuka pengguna yang mendukung pengelolaan data.

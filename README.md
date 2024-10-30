@@ -20,3 +20,7 @@ Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/016.5.png" width="200px"/>
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/016.6.png" width="200px"/>
 </div>
+
+# COMPONENT 💾 YANG DI PERLUKAN
+- **PEMBUATAN SEBUAH FODER DI HTDOCK:** https://drive.google.com/file/d/1lRC6Lqxd8UnkTjPUMiRbocMYTwMwK8bA/view
+- **PEMBUATAN TABLE DI DATABASE:** 

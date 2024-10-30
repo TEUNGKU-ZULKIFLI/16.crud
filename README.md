@@ -23,4 +23,4 @@ Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan
 
 # COMPONENT 💾 YANG DI PERLUKAN
 - **PEMBUATAN SEBUAH FODER DI HTDOCK:** https://drive.google.com/file/d/1lRC6Lqxd8UnkTjPUMiRbocMYTwMwK8bA/view
-- **PEMBUATAN TABLE DI DATABASE:** 
+- **PEMBUATAN TABLE DI DATABASE:** https://drive.google.com/file/d/1H-0Tk3W-spF1jQX5tGZFR9PqkhOOnHSc/view

@@ -21,6 +21,9 @@ Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan
   <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/016.6.png" width="200px"/>
 </div>
 
-# COMPONENT 💾 YANG DI PERLUKAN
-- **PEMBUATAN SEBUAH FODER DI HTDOCK:** https://drive.google.com/file/d/1lRC6Lqxd8UnkTjPUMiRbocMYTwMwK8bA/view
-- **PEMBUATAN TABLE DI DATABASE:** https://drive.google.com/file/d/1H-0Tk3W-spF1jQX5tGZFR9PqkhOOnHSc/view
+# COMPONENT 💾 YANG DI PERLUKAN 
+- Penghubung antar flutter ke mysql/phpmyadmin yang di xampp
+- Code SQL untuk Create DB dan TB
+<div align="center">
+  <a href="https://github.com/TEUNGKU-ZULKIFLI/my_store"><button style="font-size: 18px; padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">REPO API STORE</button></a>
+</div>
